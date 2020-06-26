@@ -1,6 +1,3 @@
-
-
-
-#Separate Positives From Negatives
+# Separate Positives From Negatives #
 
 - Sergio Alejandro Curiel Vazquez
